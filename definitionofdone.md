@@ -1,0 +1,1 @@
+En beskrivning av definition av klar för user stories i sprintbackloggen
