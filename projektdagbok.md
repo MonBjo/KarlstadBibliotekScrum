@@ -7,4 +7,6 @@ Frågat Christoffer ang. produktmål och vad det innebär:
 
 Vi börjar med att diskutera och formulera ca 30 user stories i Trello https://trello.com/b/Mg6ZuuFQ/karlstadbibliotek 
 
+Eftersom att det är så många userstories så har vi valt att dela upp dom i kategorier för att göra det hela mer översiktligt. 
+
 Om vi hinner så sätter vi **Story Points** och **Value Points**.
