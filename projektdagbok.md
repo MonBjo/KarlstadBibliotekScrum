@@ -1,5 +1,10 @@
-Skapat trello board
+## 21 Mars
 
-För nu skriver vi våra dokument i github för lättare sammarbete men vi sparat ner det i ordentliga dokument innan inlämning.
+Skapat trello board och github repo för att sammarbeta på.
 
-Frågat Christoffer ang. produktmål och vad det innebär och det är målet för hur långt vi planerar att ha kommit efter x antar sprinar. Det utgår efter listan för vad som systemet ska kunna göra men lite mera snyggt skrivet.
+Frågat Christoffer ang. produktmål och vad det innebär:  
+*Det är målet för hur långt vi planerar att ha kommit efter x antar sprinar. Det utgår efter listan för vad som systemet ska kunna göra men lite mera snyggt skrivet.*
+
+Vi börjar med att diskutera och formulera ca 30 user stories i Trello https://trello.com/b/Mg6ZuuFQ/karlstadbibliotek 
+
+Om vi hinner så sätter vi **Story Points** och **Value Points**.
