@@ -29,3 +29,8 @@ Med förslag från Christoffer så har vi färgkodat stories för att få bättr
 Eftermiddagen blir att formulera definition of done, produktmål och sprintmål.
 
 Det blir mycket diskussioner fram och tillbaka för även om instruktionerna kändes tydliga så märker vi nu när vi arbetar med dom märker vi att vi tolkar det lite olika ändå. 
+
+Vi låter det vi gjort hittils idag få bubbla i bakhuvudet medans vi skriver våra personliga reflektioner för kursen. 
+
+## 23 Mars
+
