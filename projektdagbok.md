@@ -27,3 +27,4 @@ Vi kan utgå ifrån att databaserna redan finns.
 Med förslag från Christoffer så har vi färgkodat stories för att få bättre översikt. 
 
 Eftermiddagen blir att formulera definition of done och sprintmål.
+
