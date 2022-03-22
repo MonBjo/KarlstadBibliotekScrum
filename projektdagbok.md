@@ -16,3 +16,4 @@ Vi har också satt Story Points och Value Points på alla user stories. Vi komme
 
 ## 22 Mars
 
+Idag planerar vi att rangordna alla user stories och fyller i sprinten. Om vi hinner så börjar vi på definition of done för user stories i sprinten
