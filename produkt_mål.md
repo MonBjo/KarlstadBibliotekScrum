@@ -1,3 +1,4 @@
-Därefter skapas sprintbackloggen. I princip skall det bara vara att plocka de x översta sakerna i produktbackloggen till ett sammanlagt värde av y poäng. User stories i produktbackloggen omvandlas till tasks i sprintbackloggen och måste vara möjliga att implementera/utföra. De måste således vara tillräckligt detaljerade så att en utvecklare kan börja jobba med dem utan att genast behöva fråga användarna om en massa detaljer.
+Produktmål:
 
-I allmänhet vill man att tasks i sprintbackloggen skall vara av en sådan storlek att de kan implementeras av en utvecklare på en à två arbetsdagar.
+Ett nytt system och snyggt webinterface som är modernt och lättillgängligt för alla. Smidigt att använda, logga in, söka tillgängliga böcker.
+Enkelt för admin att se statistik och historik över lånade böcker och användare.
