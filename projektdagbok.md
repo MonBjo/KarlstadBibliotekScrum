@@ -1,3 +1,5 @@
+# Projektdagbok
+
 ## 21 Mars
 
 Skapat trello board och github repo för att sammarbeta på.
@@ -10,3 +12,7 @@ Vi börjar med att diskutera och formulera ca 30 user stories i Trello https://t
 Eftersom att det är så många userstories så har vi valt att dela upp dom i kategorier för att göra det hela mer översiktligt. 
 
 Vi har också satt Story Points och Value Points på alla user stories. Vi kommer att diskutera närmare imorgon.
+
+
+## 22 Mars
+
