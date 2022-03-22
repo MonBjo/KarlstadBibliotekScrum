@@ -16,6 +16,14 @@ Vi har också satt Story Points och Value Points på alla user stories. Vi komme
 
 ## 22 Mars
 
-Idag planerar vi att rangordna alla user stories och fyller i sprinten. Om vi hinner så börjar vi på definition of done för user stories i sprinten
+Idag planerar vi att rangordna alla user stories och fyller i sprinten. Vilket vi har hunnit med under förmiddagen!
 
 Undertiden som vi diskuterar poängsättningen för alla user stories så inser vi att några user stories är viktiga, men inte nödvändigtvis för den första sprinten.
+
+Lite samtal med Christoffer om allt ser bra ut. Det är ok att skicka trello länk och github repot i en zip. 
+
+Vi kan utgå ifrån att databaserna redan finns. 
+
+Med förslag från Christoffer så har vi färgkodat stories för att få bättre översikt. 
+
+Eftermiddagen blir att lägga på.. 
