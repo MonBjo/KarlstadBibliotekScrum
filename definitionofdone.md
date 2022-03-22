@@ -1,3 +1,5 @@
-En beskrivning av definition av klar för user stories i sprintbackloggen
+Definition of done:
 
-" är för när en user story är done men det är en generell mall som appliceras på alla user stories"
+Utvecklarna startar med user stories från sprintbackloggen, när utvecklarna enas om att user stories ska börja testas, då börjar testarna analysera arbetet.
+Om testarna anser att allt funkar som det ska, är vi klara.
+Om testarna INTE anser att allt funkar som det ska, börjar utvecklarna jobba med eventuella fel eller buggar för att skicka tillbaka för testning.
