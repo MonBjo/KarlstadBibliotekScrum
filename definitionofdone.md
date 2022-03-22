@@ -2,7 +2,7 @@ Definition of done:
 
 Inga kända fel eller buggar.
 
-Alla acceptans-kriterier mötta.
+Alla kriterier mötta.
 
 Koden är reviewad.
 
