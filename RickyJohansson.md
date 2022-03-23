@@ -5,7 +5,7 @@ Kanban hade mer ett naturligt flöde, man skapar ju normaltvis upp todos och don
 Kanban är nog bättre lämpat om projektet inte är så stort, när det är lite mer "let's get done", annars kan det nog bli väldigt rörigt för alla i teamet.
 
 
-Scrum var lite av en djungel först, väldigt många begrepp, svårt att tolka vad vissa saker egentligen innebar. Man fick dock gott om information för att smidigt kunna läsa på om allting och vara redo för denna inlämningsyppgiften.
+Scrum var lite av en djungel först, väldigt många begrepp, svårt att tolka vad vissa saker egentligen innebar. Man fick dock gott om information för att smidigt kunna läsa på om allting, övningarna var också väldigt hjälpsamt här.
 
 Jag skulle tycka om Scrum som ramverk på ett företag, man kommer alltid behöva iterera mycket men jag känner att man får en mycket tydligare plan när man använder scrum. Det kan vara rörigt i början, men jag skulle ändå föredra det.
 
