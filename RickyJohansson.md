@@ -10,4 +10,4 @@ Scrum var lite av en djungel först, väldigt många begrepp, svårt att tolka v
 Jag skulle tycka om Scrum som ramverk på ett företag, man kommer alltid behöva iterera mycket men jag känner att man får en mycket tydligare plan när man använder scrum. Det kan vara rörigt i början, men jag skulle ändå föredra det.
 
 
-Man fick bra information om de Agila metoderna och det Agila manifestet, trots att jag kunde tycka att vissa saker var uppenbara/självklara så var det bra att höra om det och få en större inblick på själva tankesättet när man arbear agilt.
+Man fick bra information om de Agila metoderna och det Agila manifestet, trots att jag kunde tycka att vissa saker var uppenbara så var det bra att höra om det och få en större inblick på själva tankesättet när man arbear agilt.
